@@ -1,0 +1,26 @@
+{
+  "name": "fsa-gui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foamtecintl/fsa-gui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foamtecintl/fsa-gui/issues"
+  },
+  "homepage": "https://github.com/foamtecintl/fsa-gui#readme",
+  "dependencies": {
+    "npm": "^6.1.0"
+  },
+  "devDependencies": {
+    "electron": "^2.0.4",
+    "jquery": "^3.3.1"
+  }
+}
